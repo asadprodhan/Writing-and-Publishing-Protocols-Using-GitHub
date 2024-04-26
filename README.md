@@ -1,4 +1,4 @@
-# **Mastering the Art of Writing and Publishing Protocols Using GitHub** <br />
+# **Writing and Publishing Protocols Using GitHub** <br />
 
 
 ### **AUTHOR: Dr Asad Prodhan** https://asadprodhan.github.io/
