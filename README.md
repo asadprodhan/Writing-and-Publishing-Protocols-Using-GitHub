@@ -140,15 +140,12 @@ Figure 1: Figure description".
 <br />
 
 
-**Add a presentation link:**
+### **Add a presentation link:**
 
 
 ```
 ### **An introduction to Nanopore DNA sequencing and data analysis. Nanopore Workshop for Biosecurity, Curtin University, Perth, Australia, 27-29 June 2023.** [VIEW](https://github.com/asadprodhan/Conference_Talks/blob/main/Nanopore_Workshop_AsadProdhan_DPIRD.pdf)
 ```
-
-
-<br />
 
 
 <br />
@@ -167,15 +164,12 @@ The above code chunk will produce the following display in your GitHub repositor
 <br />
 
 
-**Add a download button in your repository:**
+### **Add a download button in your repository:**
 
 
 ```
 [DOWNLOAD](https://github.com/asadprodhan/blastn/blob/main/main.nf)
 ```
-
-
-<br />
 
 
 <br />
@@ -197,7 +191,7 @@ The above code chunk will produce the following display in your GitHub repositor
 
 
 
-**Add a Table of Content**
+### **Add a Table of Content**
 
 
 ```
@@ -206,10 +200,6 @@ The above code chunk will produce the following display in your GitHub repositor
 [01.  Blastn database download and update [NCBI tool]](https://github.com/asadprodhan/blastn#using-ncbi-supplied-script)
 
 ```
-
-
-
-<br />
 
 
 <br />
@@ -235,6 +225,9 @@ The above code chunk will produce the following display in your GitHub repositor
 
 
 ### **See some GitHub repository examples here (Prodhan, 2022, 2024)**
+
+
+<br />
 
 
 Prodhan, M. A. (2022). An Introduction to R Coding. Zenodo. https://doi.org/10.5281/zenodo.5880043
