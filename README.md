@@ -83,18 +83,19 @@ Add a table of content
 4.	Add a license to your repository
 	
 
-      - Add file
+      - Click on Add file
+        
 
       - Create a new file
 
 
-      -  Type LICENSE in the "Name your file" box
+      - Type LICENSE in the "Name your file" box
 
 
-      -    Choose a license
+      - Choose a license
 
 
-      -    Review and submit it
+      - Review and submit it
 
 
 <br />
@@ -123,6 +124,16 @@ Add a table of content
 
 
 5.	Go back to your GitHub repository and create a release
+   
+
+   	- On the right-hand side, click Create a new release
+        
+
+        - Chhose a tag and create a tag, e.g. v1
+
+
+        - Click on Publish release
+
 
 
 6.	Come back to Zenodo and will now find your GitHub repository in Zenodo along with a DOI
@@ -138,20 +149,57 @@ Add a table of content
 
 1.	Open a Notepad file and write the following details
 
-   
-3.	Save as text file
+
+
+```
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Prodhan"
+  given-names: "M. Asaduzzaman"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "About the PATH"
+version: 1
+doi: 10.5281/zenodo.11068992
+date-released: '2024-04-25'
+repository-code: "https://github.com/asadprodhan/About-the-PATH/tree/v1"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Prodhan"
+    given-names: "M. Asaduzzaman"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.5281/zenodo.11068992"
+  journal: "Zenodo"
+  title: "About the PATH"
+  year: 2024
+
+```
+
 
    
-5.	Rename the text file as CITATION.cff
+2.	Save as text file
+   
 
    
-7.	Add the CITATION.cff file to your GitHub repository
+3.	Rename the text file as CITATION.cff
+
 
    
-9.	On the left-hand side, you will see a citation request added
+4.	Add the CITATION.cff file to your GitHub repository
+
+
+   
+5.	On the left-hand side, you will see a citation request added
+
+   
+<br />
+
 
     
 Now you have a publication, add it to your institutional research repository and Google Scholar
+
+<br />
 
 
 ### **Final result**
