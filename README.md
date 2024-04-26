@@ -113,10 +113,10 @@ Add a table of content
 1.	Create a Zenodo account
 
    
-2.	Log in using your GitHub account
+2.	Log in in Zenodo using your GitHub account
 
    
-3.	Go to the drop-down menu and select GitHub
+3.	Go to the drop-down menu at the top-right-hand corner displaying your name and select GitHub
 
 
 4.	Toggle the ON button
