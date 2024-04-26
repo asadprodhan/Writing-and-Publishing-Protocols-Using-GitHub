@@ -7,7 +7,7 @@
 <br />
 
 
-## **How to write a protocol or manual in GitHub**
+## **How to write a protocol or user-manual in GitHub**
 
 
 1.	Open a GitHub account
