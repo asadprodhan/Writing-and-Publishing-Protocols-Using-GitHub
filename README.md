@@ -176,8 +176,9 @@ Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11
 
 <br />
 
-  
-4.	Add a license to your repository
+
+
+## **How to add a license to your repository**
 	
 
       - Click on Add file
@@ -196,10 +197,6 @@ Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11
 
 
 <br />
-
-   
-5.	Add a CITATION.cff file to your repository (you can do this step after publishing it in Zenodo)
-
 
 
 <br />
@@ -240,11 +237,19 @@ Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11
 <br />
 
 
-## **How to create a CITATION.cff file**
+
+## **How to add "Cite this repository" option to your repository**
+
+
+> you can do this step after publishing it in Zenodo, beacuse you need a DOI for your repository
 
 
 
-1.	Open a Notepad file and write the following details
+### **Step 1: Create a CITATION.cff file**
+
+
+
+Open a Notepad file and write the following details
 
 
 
@@ -274,43 +279,35 @@ preferred-citation:
 ```
 
 
-   
-2.	Save as text file
+### **Step 2: Save as text file**
    
 
-   
-3.	Rename the text file as CITATION.cff
+### **Step 3: Rename the text file as CITATION.cff**
 
 
-   
-4.	Add the CITATION.cff file to your GitHub repository
+### **Step 4: Add the CITATION.cff file to your GitHub repository**
 
 
-   
-5.	On the left-hand side, you will see a citation request added
+***On the left-hand side, you will see a citation request added***
 
    
 <br />
 
 
     
-### **Now you have a publication, add it to your institutional research repository and Google Scholar**
+### **Now you have a publication, you can add it to your institutional research repository, Google Scholar etc**
 
 
 <br />
 
 
-### **Final result**
+### **Final output**
 
 
-In text:
-
-(Prodhan, 2024)
+In text: (Prodhan, 2024)
 
 
-In bibliography:
-
-Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11068992
+In bibliography: Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11068992
 
 
 
