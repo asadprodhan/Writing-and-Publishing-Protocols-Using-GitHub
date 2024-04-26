@@ -7,7 +7,7 @@
 <br />
 
 
-## **How to writing up a GitHub repository**
+## **How to write up a GitHub repository**
 
 
 1.	Open a GitHub account
