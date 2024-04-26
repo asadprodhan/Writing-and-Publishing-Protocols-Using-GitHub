@@ -114,7 +114,7 @@ Add a table of content
 <br />
 
 
-### **How to publish your GitHub repository**
+## **How to publish your GitHub repository**
 
 
 1.	Create a Zenodo account
@@ -149,7 +149,7 @@ Add a table of content
 <br />
 
 
-### **How to create a CITATION.cff file**
+## **How to create a CITATION.cff file**
 
 
 
@@ -223,7 +223,7 @@ Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11
 
 
 
-### **References**
+## **References**
 
 
 Prodhan, M. A. (2022). An Introduction to R Coding. Zenodo. https://doi.org/10.5281/zenodo.5880043
