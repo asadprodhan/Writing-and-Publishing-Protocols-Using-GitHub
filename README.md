@@ -92,15 +92,34 @@ Text formating
 ```
 
 
-**text** bold
-
-***text*** italic and bold
-
-Add a script: ``` script ```
+**Bold** 
 
 
-Add a figure:
+```
+**Bold**
+```
 
+
+***Italic and Bold*** 
+
+
+```
+***Italic and Bold***
+```
+
+
+Script
+
+
+``` 
+Script
+```
+
+
+**Add a figure**
+
+
+```
 <p align="center">
   <img 
     src="GitHub link"
@@ -110,18 +129,31 @@ Add a figure:
 Figure 1: Figure description".
 </p>
 
+```
+
 <br />
 
-Add a presentation link:
 
+**Add a presentation link:**
+
+
+```
 ### **An introduction to Nanopore DNA sequencing and data analysis. Nanopore Workshop for Biosecurity, Curtin University, Perth, Australia, 27-29 June 2023.** [VIEW](https://github.com/asadprodhan/Conference_Talks/blob/main/Nanopore_Workshop_AsadProdhan_DPIRD.pdf)
+```
 
-Add a download button in your repository:
 
+**Add a download button in your repository:**
+
+
+```
 [DOWNLOAD](https://github.com/asadprodhan/blastn/blob/main/main.nf)
+```
 
-Add a table of content
 
+**Add a Table of Content**
+
+
+```
 ### Content
 
 [01.  Blastn database download and update [NCBI tool]](https://github.com/asadprodhan/blastn#using-ncbi-supplied-script)
@@ -132,7 +164,8 @@ Add a table of content
 <br />
 
 
-### **See examples here (Prodhan, 2022, 2024)**
+
+### **See GitHub repository examples here (Prodhan, 2022, 2024)**
 
 
 <br />
