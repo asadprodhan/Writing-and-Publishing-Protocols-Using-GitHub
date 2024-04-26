@@ -18,8 +18,86 @@
    
 3.	Write it up using the following Markdown format
 
+
+```
+# **Title** <br />
+
+### **AUTHOR: Name** Website
+
+<br /> Space
+
+Text formating:
+
+## **Heading**
+
+### **Sub-headings**
+
+- Bullet
+
+      - Sub-bullet
+
+> Embedded text
+
+*text* italic
+
+**text** bold
+
+***text*** italic and bold
+
+Add a script: ``` script ```
+
+
+Add a figure:
+
+<p align="center">
+  <img 
+    src="GitHub link"
+ align="center" width=100% height=100% >   
+</p>
+<p align = center>
+Figure 1: Figure description".
+</p>
+
+<br />
+
+Add a presentation link:
+
+### **An introduction to Nanopore DNA sequencing and data analysis. Nanopore Workshop for Biosecurity, Curtin University, Perth, Australia, 27-29 June 2023.** [VIEW](https://github.com/asadprodhan/Conference_Talks/blob/main/Nanopore_Workshop_AsadProdhan_DPIRD.pdf)
+
+Add a download button in your repository:
+
+[DOWNLOAD](https://github.com/asadprodhan/blastn/blob/main/main.nf)
+
+Add a table of content
+
+### Content
+
+[01.  Blastn database download and update [NCBI tool]](https://github.com/asadprodhan/blastn#using-ncbi-supplied-script)
+
+```
+
+
+<br />
+
   
 4.	Add a license to your repository
+	
+
+      - Add file
+
+      - Create a new file
+
+
+      -  Type LICENSE in the "Name your file" box
+
+
+      -    Choose a license
+
+
+      -    Review and submit it
+
+
+<br />
 
    
 5.	Add a CITATION.cff file to your repository (you can do this step after publishing it in Zenodo)
