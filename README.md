@@ -324,10 +324,11 @@ You can add a DOI badge to your GitHub repository using the following code chunk
 ```
 
 
+<br />
+
+
 The above code chunk will produce the following display in your GitHub repository
 
-
-<br />
 
 
 [![DOI](https://zenodo.org/badge/DOI/doi.org/10.5281/zenodo.11068991.svg)](https://doi.org/10.5281/zenodo.11068991)
