@@ -19,26 +19,78 @@
 3.	Write it up using the following Markdown format
 
 
+
+# **Title** <br />
+
+
+
 ```
 # **Title** <br />
+```
+
 
 ### **AUTHOR: Name** Website
 
-<br /> Space
 
-Text formating:
+```
+### **AUTHOR: Name** Website
+```
+
+
+Space
+
+
+```
+<br />
+```
+
+
+
+Text formating
+
 
 ## **Heading**
 
+
+```
+## **Heading**
+```
+
+
 ### **Sub-headings**
 
+
+```
+### **Sub-headings**
+```
+
+
+- Bullet and sub-bullet
+
+
+```
 - Bullet
 
-      - Sub-bullet
+	- Sub-bullet
+```
+
 
 > Embedded text
 
-*text* italic
+
+
+```
+> Embedded text
+```
+
+
+*Italic* 
+
+
+```
+*Italic*
+```
+
 
 **text** bold
 
