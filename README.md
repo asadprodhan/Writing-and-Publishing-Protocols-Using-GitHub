@@ -1,4 +1,4 @@
-# **Writing and publishing a lab protocol using GitHub** <br />
+# **Writing and publishing a protocol using GitHub** <br />
 
 
 ### **AUTHOR: Dr Asad Prodhan** https://asadprodhan.github.io/
