@@ -19,6 +19,8 @@
 3.	Write it up using the following Markdown format
 
 
+<br />
+
 
 # **Title** <br />
 
@@ -131,6 +133,7 @@ Figure 1: Figure description".
 
 ```
 
+
 <br />
 
 
@@ -142,12 +145,18 @@ Figure 1: Figure description".
 ```
 
 
+<br />
+
+
 **Add a download button in your repository:**
 
 
 ```
 [DOWNLOAD](https://github.com/asadprodhan/blastn/blob/main/main.nf)
 ```
+
+
+<br />
 
 
 **Add a Table of Content**
@@ -172,6 +181,9 @@ Prodhan, M. A. (2022). An Introduction to R Coding. Zenodo. https://doi.org/10.5
 
 
 Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11068991
+
+
+<br />
 
 
 <br />
@@ -233,6 +245,8 @@ Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11
 6.	Come back to Zenodo and will now find your GitHub repository in Zenodo along with a DOI
 
 
+<br />
+
 
 <br />
 
@@ -243,6 +257,8 @@ Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11
 
 > you can do this step after publishing it in Zenodo, beacuse you need a DOI for your repository
 
+
+<br />
 
 
 ### **Step 1: Create a CITATION.cff file**
@@ -294,11 +310,18 @@ preferred-citation:
 <br />
 
 
+<br />
+
+
     
 ### **Now you have a publication, you can add it to your institutional research repository, Google Scholar etc**
 
 
 <br />
+
+
+<br />
+
 
 
 ### **Final output**
@@ -309,6 +332,11 @@ In text: (Prodhan, 2024)
 
 In bibliography: Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11068992
 
+
+<br />
+
+
+<br />
 
 
 ## **References**
