@@ -168,6 +168,12 @@ Figure 1: Figure description".
 ### **See GitHub repository examples here (Prodhan, 2022, 2024)**
 
 
+Prodhan, M. A. (2022). An Introduction to R Coding. Zenodo. https://doi.org/10.5281/zenodo.5880043
+
+
+Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11068991
+
+
 <br />
 
   
