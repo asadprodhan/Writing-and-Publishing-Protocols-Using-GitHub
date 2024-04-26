@@ -145,6 +145,12 @@ Figure 1: Figure description".
 ```
 
 
+The above code chunk will produce the following display in your GitHub repository
+
+
+### **An introduction to Nanopore DNA sequencing and data analysis. Nanopore Workshop for Biosecurity, Curtin University, Perth, Australia, 27-29 June 2023.** [VIEW](https://github.com/asadprodhan/Conference_Talks/blob/main/Nanopore_Workshop_AsadProdhan_DPIRD.pdf)
+
+
 <br />
 
 
@@ -154,6 +160,12 @@ Figure 1: Figure description".
 ```
 [DOWNLOAD](https://github.com/asadprodhan/blastn/blob/main/main.nf)
 ```
+
+
+The above code chunk will produce the following display in your GitHub repository
+
+
+[DOWNLOAD](https://github.com/asadprodhan/blastn/blob/main/main.nf)
 
 
 <br />
@@ -168,6 +180,15 @@ Figure 1: Figure description".
 [01.  Blastn database download and update [NCBI tool]](https://github.com/asadprodhan/blastn#using-ncbi-supplied-script)
 
 ```
+
+
+The above code chunk will produce the following display in your GitHub repository
+
+
+
+### Content
+
+[01.  Blastn database download and update [NCBI tool]](https://github.com/asadprodhan/blastn#using-ncbi-supplied-script)
 
 
 <br />
