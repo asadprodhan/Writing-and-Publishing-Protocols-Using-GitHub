@@ -7,7 +7,7 @@
 <br />
 
 
-## **How to write up a GitHub repository**
+## **How to write a protocol or manual in GitHub**
 
 
 1.	Open a GitHub account
@@ -214,7 +214,7 @@ Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11
 <br />
 
 
-## **How to publish your GitHub repository**
+## **How to publish the protocol (GitHub repository)**
 
 
 1.	Create a Zenodo account
