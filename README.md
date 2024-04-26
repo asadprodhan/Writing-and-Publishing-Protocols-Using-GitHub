@@ -190,7 +190,7 @@ Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11
 
 
 
-## **How to add a license to your repository**
+## **How to add a license to your GitHub repository**
 	
 
 - Click on Add file
@@ -214,7 +214,7 @@ Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11
 <br />
 
 
-## **How to publish the protocol (GitHub repository)**
+## **How to publish your GitHub repository**
 
 
 1.	Create a Zenodo account
@@ -252,7 +252,7 @@ Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11
 
 
 
-## **How to add "Cite this repository" option to your repository**
+## **How to add "Cite this repository" option to your GitHub repository**
 
 
 > you can do this step after publishing it in Zenodo, beacuse you need a DOI for your repository
