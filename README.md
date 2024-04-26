@@ -1,4 +1,4 @@
-# **Writing and publishing a GitHub repository** <br />
+# **Writing and publishing a protocol** <br />
 
 
 ### **AUTHOR: Dr Asad Prodhan** https://asadprodhan.github.io/
