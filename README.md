@@ -339,15 +339,6 @@ The above code chunk will produce the following display in your GitHub repositor
 
 <br />
 
-    
-### **Now you have a publication, you can add it to your institutional research repository, Google Scholar etc**
-
-
-<br />
-
-
-<br />
-
 
 
 ### **Final output**
@@ -363,6 +354,16 @@ In bibliography: Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/
 
 
 <br />
+
+
+### **Now you have a publication, you can add it to your institutional research repository, Google Scholar etc**
+
+
+<br />
+
+
+<br />
+
 
 
 ## **References**
