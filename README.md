@@ -181,19 +181,19 @@ Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11
 ## **How to add a license to your repository**
 	
 
-      - Click on Add file
+- Click on Add file
         
 
-      - Create a new file
+- Create a new file
 
 
-      - Type LICENSE in the "Name your file" box
+- Type LICENSE in the "Name your file" box
 
 
-      - Choose a license
+- Choose a license
 
 
-      - Review and submit it
+- Review and submit it
 
 
 <br />
