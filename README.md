@@ -313,6 +313,29 @@ preferred-citation:
 <br />
 
 
+## **How to add a DOI badge to your GitHub repository**
+
+
+You can add a DOI badge to your GitHub repository using the following code chunk 
+
+
+```
+[![DOI](https://zenodo.org/badge/DOI/doi.org/10.5281/zenodo.11068991.svg)](https://doi.org/10.5281/zenodo.11068991)
+```
+
+
+The above code chunk will produce the display in your GitHub repository
+
+
+
+[![DOI](https://zenodo.org/badge/DOI/doi.org/10.5281/zenodo.11068991.svg)](https://doi.org/10.5281/zenodo.11068991)
+
+
+<br />
+
+
+<br />
+
     
 ### **Now you have a publication, you can add it to your institutional research repository, Google Scholar etc**
 
