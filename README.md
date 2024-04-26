@@ -7,7 +7,7 @@
 <br />
 
 
-### **Writing up**
+## **How to writing up a GitHub repository**
 
 
 1.	Open a GitHub account
@@ -108,7 +108,7 @@ Add a table of content
 <br />
 
 
-### **Publishing**
+### **How to publish your GitHub repository**
 
 
 1.	Create a Zenodo account
@@ -143,7 +143,7 @@ Add a table of content
 <br />
 
 
-### **Creating a CITATION.cff**
+### **How to create a CITATION.cff file**
 
 
 
@@ -197,7 +197,8 @@ preferred-citation:
 
 
     
-Now you have a publication, add it to your institutional research repository and Google Scholar
+### **Now you have a publication, add it to your institutional research repository and Google Scholar**
+
 
 <br />
 
@@ -205,7 +206,13 @@ Now you have a publication, add it to your institutional research repository and
 ### **Final result**
 
 
+In text:
+
 (Prodhan, 2024)
+
+
+In reference:
+
 Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11068992
 
 
