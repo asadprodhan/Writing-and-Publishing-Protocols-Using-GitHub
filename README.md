@@ -79,6 +79,12 @@ Add a table of content
 
 <br />
 
+
+### **See examples here (Prodhan, 2022, 2024)**
+
+
+<br />
+
   
 4.	Add a license to your repository
 	
@@ -211,9 +217,20 @@ In text:
 (Prodhan, 2024)
 
 
-In reference:
+In bibliography:
 
 Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11068992
+
+
+
+### **References**
+
+
+Prodhan, M. A. (2022). An Introduction to R Coding. Zenodo. https://doi.org/10.5281/zenodo.5880043
+
+
+Prodhan, M. A. (2024). About the PATH. Zenodo. https://doi.org/10.5281/zenodo.11068991
+
 
 
 
